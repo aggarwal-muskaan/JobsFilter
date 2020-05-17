@@ -211,7 +211,7 @@ h5 {
   }
 }
 
-@media (min-width: 800px) {
+@media (min-width: 1000px) {
   .main-container {
     flex-direction: column;
     justify-content: center;
@@ -226,8 +226,8 @@ h5 {
 
   .card {
     flex-direction: row;
-    width: 80%;
-    max-width: 80%;
+    width: 87%;
+    max-width: 90%;
     height: 6.5rem;
     max-height: 7rem;
     align-items: center;
