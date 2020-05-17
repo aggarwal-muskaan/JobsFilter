@@ -1,0 +1,16 @@
+{
+  "name": "jobs_list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d jobs"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://aggarwal-muskaan.github.io/JobsFilter",
+  "dependencies": {
+    "gh-pages": "^2.2.0",
+    "underscore": "^1.10.2"
+  }
+}
