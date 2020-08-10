@@ -188,6 +188,7 @@ h5 {
   .buttons:hover {
     background-color: var(--darkblue);
     color: var(--LightGrayishCyan);
+    cursor: pointer;
   }
 }
 @media (min-width: 450px) {
